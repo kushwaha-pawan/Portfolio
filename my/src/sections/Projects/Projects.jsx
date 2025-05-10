@@ -13,7 +13,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={website}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://responsive-website-mu-two.vercel.app/"
           h3="shopping"
           p="E-Commerce"
         />
