@@ -55,7 +55,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          I enjoy creating modern and user-friendly web interfaces using React and other front-end tools.
+          I enjoy creating modern and user-friendly web interfaces using React and other front-end tools..
         </p>
         
         <a href={CV} download>
