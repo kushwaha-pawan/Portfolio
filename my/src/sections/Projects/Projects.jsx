@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './ProjectsStyles.module.css';
 import website from '../../assets/website.png';
-import freshBurger from '../../assets/fresh-burger.png';
+import websitR from '../../assets/websitR.png';
 import hipsster from '../../assets/hipsster.png';
 import fitLift from '../../assets/fitlift.png';
 import ProjectCard from '../../common/ProjectCard';
@@ -18,7 +18,7 @@ function Projects() {
           p="E-Commerce"
         />
         <ProjectCard
-          src={freshBurger}
+          src={websitR}
           link="https://github.com/Ade-mir/company-landing-page-2"
           h3="Fresh Burger"
           p="Hamburger Restaurant"
