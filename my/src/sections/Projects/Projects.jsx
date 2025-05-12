@@ -14,14 +14,14 @@ function Projects() {
         <ProjectCard
           src={website}
           link="https://responsive-website-mu-two.vercel.app/"
-          h3="shopping"
+          h3="website"
           p="E-Commerce"
         />
         <ProjectCard
           src={websitR}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Fresh Burger"
-          p="Hamburger Restaurant"
+          link="https://page-nest-website.vercel.app/"
+          h3="multipale page "
+          p="E-Commerce"
         />
         <ProjectCard
           src={hipsster}
